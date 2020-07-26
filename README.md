@@ -1,10 +1,12 @@
 👋 Hi
 
-I'm David Lopez, Web developer, pasionate about tech and farming.
+I'm David Lopez, Web Developer, pasionate about tech and farming.
 
 Always looking for learn and be present 🙏.
 
-You can see more about me on my [blog|https://dleo.github.io/].
+You can see more about me on my [blog](https://dleo.github.io/).
+
+Also you can follow me on [twitter](https://twitter.com/dleolopez).
 
 <!--
 **dleo/dleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
