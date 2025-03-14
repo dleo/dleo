@@ -6,7 +6,7 @@ Always looking for learn and be present 🙏.
 
 You can see more about me on my [blog](https://dleo.github.io/).
 
-Also you can follow me on [twitter](https://twitter.com/dleolopez).
+Also you can follow me on [X](https://twitter.com/dleolopez).
 
 <!--
 **dleo/dleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
